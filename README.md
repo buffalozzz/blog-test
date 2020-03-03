@@ -7,7 +7,13 @@
 3. 唱歌
 4. 健身
 
-学过的编程语言有 `HTML`  `CSS` `JavaScript` `PHP` 我写一段给你瞧瞧吧
+学过的编程语言有
+* `HTML` 
+* `CSS`
+* `JavaScript`
+* `PHP` 
+
+我写一段给你瞧瞧吧
 
 ```html
 <!DOCTYPE html>
